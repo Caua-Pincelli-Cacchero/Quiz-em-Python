@@ -1,2 +1,2 @@
 # Quiz em Python
- Meu primeiro projeto pessoal
+ Meu primeiro projeto pessoal em **python**
