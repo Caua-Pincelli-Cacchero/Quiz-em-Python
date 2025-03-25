@@ -101,7 +101,7 @@ else:
 
 print('-=' * 20)
 
-if score == 0 or 1 or 2:
+if 0 <= score <= 2:
     print('Você precisa saber mais sobre jogos, mas boa tentativa!')
 elif score == 3:
     print('Você está indo bem, continue melhorando!')
