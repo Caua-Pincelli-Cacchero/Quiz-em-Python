@@ -45,7 +45,7 @@ else:
 print('-=' * 20)
 
 print('Terceira questão: \nQuem ganhou o GOTY(Game Of The Year) de 2018? \n'
-'A)Red Dead Redemption II \nB) God Of War \nC) Fortnite \nD) Celeste \nE) Overcoocked 2')
+'A) Red Dead Redemption II \nB) God Of War \nC) Fortnite \nD) Celeste \nE) Overcoocked 2')
 
 certo = 'B'
 
